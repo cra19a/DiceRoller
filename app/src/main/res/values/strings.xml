@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Dice Roller</string>
+    <string name="critical_miss">Critical Miss!</string>
+    <string name="critical_hit">Critical Hit!</string>
+    <string name="shake_the_phone_to_detect_to_shake_event">Shake the phone to detect to shake event</string>
+    <string name="hit_or_miss">Hit or miss</string>
 </resources>
