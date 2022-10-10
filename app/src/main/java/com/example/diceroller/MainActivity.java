@@ -27,8 +27,6 @@ public class MainActivity extends AppCompatActivity {
     private float mAccelCurrent;
     private float mAccelLast;
 
-    // making comment here so I can commit maybe
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
